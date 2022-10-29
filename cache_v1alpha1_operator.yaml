@@ -1,0 +1,6 @@
+apiVersion: cache.keithcullen.net/v1alpha1
+kind: Operator
+metadata:
+  name: operator
+spec:
+  size: 1
